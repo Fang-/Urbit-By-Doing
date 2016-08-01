@@ -12,6 +12,7 @@ I personally can't guarantee you won't read false information here, but I try to
 
 **Making a talkbot**  
 [Part one: Introduction and setup](talkbot/1.md)  
+[Part two: A very basic Hoon program](talkbot/2.md)  
 To be continued...
 
 ## License
