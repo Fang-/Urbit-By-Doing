@@ -14,6 +14,7 @@ I personally can't guarantee you won't read false information here, but I try to
 [Part one: Introduction and setup](talkbot/1.md)  
 [Part two: A very basic Hoon program](talkbot/2.md)  
 [Part three: Connecting to talk](talkbot/3.md)  
+[Part four: Listening and responding](talkbot/4.md)  
 To be continued...
 
 ## License
