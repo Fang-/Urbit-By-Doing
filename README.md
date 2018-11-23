@@ -2,6 +2,8 @@
 
 A dysfunctional programmer's guide to making things in Hoon.
 
+**Note that this hasn't been updated in a while.** It uses old Hoon syntax (which is still supported), and hasn't worked with the latest version of Talk/Hall in ages. The material within should still be enough to get you off the ground, but do keep its datedness in mind.
+
 ## About
 
 Urbit By Doing is a series of tutorials that focus on writing Hoon applications from scratch. They are targeted at developers with only a very basic understanding of Hoon. If you have worked through the [Quickstart](https://urbit.org/docs/arvo/) and/or [Hoon](https://urbit.org/docs/hoon/) docs, you should be able to follow along. If not, the tutorials aren't well-written enough.
