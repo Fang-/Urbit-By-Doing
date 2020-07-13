@@ -1,3 +1,6 @@
+## This repo is _extremely_ out of date, and remains available only for archeology purposes. If you are looking to learn, go to [urbit.org](https://urbit.org/docs) or elsewhere.
+
+
 # Urbit By Doing
 
 A dysfunctional programmer's guide to making things in Hoon.
